@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.371" height="155.661" viewBox="0 0 156.371 155.661">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cc0001;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: rgba(248,248,248,0.35);
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+        opacity: 0.42;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #e82127;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Instagram" class="cls-1" width="108.365" height="108.788" transform="translate(3.05 2.409)"/>
+    </clipPath>
+  </defs>
+  <g id="Image" transform="translate(2 2)">
+    <g id="Avatar" transform="translate(0 0)">
+      <rect id="Rectangle_4957" data-name="Rectangle 4957" class="cls-2" width="152.371" height="151.661" rx="24" transform="translate(0 0)"/>
+      <rect id="Instagram-2" data-name="Instagram" class="cls-3" width="146.27" height="146.841" rx="22" transform="translate(3.05 2.41)"/>
+      <g id="Mask_Group_360" data-name="Mask Group 360" class="cls-4" transform="translate(18.952 19.026)">
+        <g id="Tesla_Motors" transform="translate(15.178 2.409)">
+          <g id="TESLA" transform="translate(0 97.821)">
+            <g id="g8" transform="translate(71.529 0.01)">
+              <path id="polyline10" class="cls-5" d="M108.612,164.295v6.614h2.121v-4.4h7.719v4.4h2.119v-6.6l-11.959-.011" transform="translate(-108.284 -159.964)"/>
+              <path id="path12" class="cls-5" d="M110.382,160.64h8.155a3.01,3.01,0,0,0,2.213-2.192H108.17a3.021,3.021,0,0,0,2.212,2.192" transform="translate(-108.17 -158.449)"/>
+            </g>
+            <g id="g14" transform="translate(55.66 0.015)">
+              <path id="path16" class="cls-5" d="M96.523,169.4a3.033,3.033,0,0,0,1.865-2.155H88.876l.006-8.788-2.132.006V169.4h9.774" transform="translate(-86.749 -158.456)"/>
+            </g>
+            <g id="g18" transform="translate(37.069 0.018)">
+              <path id="path20" class="cls-5" d="M64.389,160.614h7.532a3.3,3.3,0,0,0,2.321-2.154H62.278v6.464H72.07v2.268l-7.681.006a4.285,4.285,0,0,0-2.734,2.211l.622-.011h11.9v-6.623H64.389v-2.161" transform="translate(-61.656 -158.46)"/>
+            </g>
+            <g id="g22" transform="translate(18.996)">
+              <path id="path24" class="cls-5" d="M39.474,160.628h8.153a3.008,3.008,0,0,0,2.214-2.193H37.261a3.022,3.022,0,0,0,2.214,2.193" transform="translate(-37.261 -158.436)"/>
+              <path id="path26" class="cls-5" d="M39.474,166.463h8.153a3,3,0,0,0,2.214-2.192H37.261a3.016,3.016,0,0,0,2.214,2.192" transform="translate(-37.261 -159.948)"/>
+              <path id="path28" class="cls-5" d="M39.474,172.459h8.153a3.007,3.007,0,0,0,2.214-2.192H37.261a3.021,3.021,0,0,0,2.214,2.192" transform="translate(-37.261 -161.502)"/>
+            </g>
+            <g id="g30" transform="translate(0 0.005)">
+              <path id="path32" class="cls-5" d="M11.621,158.464a3.043,3.043,0,0,0,2.208,2.178H17.26l.175.069v8.66h2.143v-8.66l.195-.069h3.435a3.085,3.085,0,0,0,2.2-2.178v-.021H11.621v.021" transform="translate(-11.621 -158.443)"/>
+            </g>
+          </g>
+          <g id="T" transform="translate(3.786)">
+            <path id="path35" class="cls-5" d="M58.327,105.2,69.034,44.983c10.206,0,13.425,1.119,13.89,5.687,0,0,6.847-2.553,10.3-7.738a75.665,75.665,0,0,0-27.015-6.526l-7.9,9.623h.018l-7.9-9.623a75.657,75.657,0,0,0-27.013,6.526c3.45,5.185,10.3,7.738,10.3,7.738.468-4.568,3.683-5.688,13.82-5.695L58.327,105.2" transform="translate(-20.054 -28.991)"/>
+            <path id="path37" class="cls-5" d="M57.147,31.034a88.221,88.221,0,0,1,36.124,7.248,29.332,29.332,0,0,0,2.144-4.427A104.762,104.762,0,0,0,57.146,26.4a104.75,104.75,0,0,0-38.267,7.457,37.024,37.024,0,0,0,2.143,4.427,88.213,88.213,0,0,1,36.124-7.248h0" transform="translate(-18.879 -26.398)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

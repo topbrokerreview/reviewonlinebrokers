@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.371" height="155.661" viewBox="0 0 156.371 155.661">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cc0001;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: rgba(248,248,248,0.35);
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+        opacity: 0.42;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #f3f3f3;
+      }
+
+      .cls-6 {
+        fill: #f35325;
+      }
+
+      .cls-7 {
+        fill: #81bc06;
+      }
+
+      .cls-8 {
+        fill: #05a6f0;
+      }
+
+      .cls-9 {
+        fill: #ffba08;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Instagram" class="cls-1" width="96.346" height="96.722" transform="translate(3.05 2.41)"/>
+    </clipPath>
+  </defs>
+  <g id="Image" transform="translate(2 2)">
+    <g id="Avatar" transform="translate(0 0)">
+      <rect id="Rectangle_4957" data-name="Rectangle 4957" class="cls-2" width="152.371" height="151.661" rx="24" transform="translate(0 0)"/>
+      <rect id="Instagram-2" data-name="Instagram" class="cls-3" width="146.27" height="146.841" rx="22" transform="translate(3.05 2.41)"/>
+      <g id="Mask_Group_359" data-name="Mask Group 359" class="cls-4" transform="translate(24.962 25.059)">
+        <g id="Microsoft_logo" transform="translate(3.05 2.598)">
+          <path id="Path_56439" data-name="Path 56439" class="cls-5" d="M0,0H96.346V96.346H0Z"/>
+          <path id="Path_56440" data-name="Path 56440" class="cls-6" d="M6.36,6.36h41.89v41.89H6.36Z" transform="translate(-2.171 -2.171)"/>
+          <path id="Path_56441" data-name="Path 56441" class="cls-7" d="M76.315,6.36H118.2v41.89H76.315Z" transform="translate(-26.047 -2.171)"/>
+          <path id="Path_56442" data-name="Path 56442" class="cls-8" d="M6.36,76.315h41.89V118.2H6.36Z" transform="translate(-2.171 -26.047)"/>
+          <path id="Path_56443" data-name="Path 56443" class="cls-9" d="M76.315,76.315H118.2V118.2H76.315Z" transform="translate(-26.047 -26.047)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
